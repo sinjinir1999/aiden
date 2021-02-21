@@ -1,4 +1,4 @@
-# Aiden. Your physio assistant.
+# Aiden. Your physio assistant
 
 ### Aiden is a web app utilising **_tensorflow.js_**, browser-based Machine Learning library, to enable accessible physiotherapy for the Visually Impaired and other people as well - talking through exercises by responding to users' postures in real-time.
 
